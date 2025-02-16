@@ -8,4 +8,4 @@ Answer: Data science can be applied to the weather forecasting. The science of f
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: [Your answer here]
+Answer: Merging merges the changes in branches, while rebasing replays the changes made in a branch to the current one.
